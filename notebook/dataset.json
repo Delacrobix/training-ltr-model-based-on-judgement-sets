@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "doc1",
+    "text": "DiCaprio's performance in The Revenant was breathtaking and earned him his first Oscar.",
+    "genre": "Drama"
+  },
+  {
+    "_id": "doc2",
+    "text": "Inception shows Leonardo DiCaprio in one of his most iconic roles as a troubled dream thief.",
+    "genre": "Sci-Fi"
+  },
+  {
+    "_id": "doc3",
+    "text": "The Wolf of Wall Street features DiCaprio's charismatic performance as a corrupt stockbroker.",
+    "genre": "Drama"
+  },
+  {
+    "_id": "doc4",
+    "text": "Titanic showcases DiCaprio's early career breakthrough in this epic romance.",
+    "genre": "Romance"
+  },
+  {
+    "_id": "doc5",
+    "text": "Brad Pitt delivers a solid performance in this crime thriller about organized crime.",
+    "genre": "Crime"
+  },
+  {
+    "_id": "doc6",
+    "text": "Tom Hanks gives an outstanding performance in this emotional war drama.",
+    "genre": "War"
+  },
+  {
+    "_id": "doc7",
+    "text": "Meryl Streep's performance in this biographical drama is absolutely mesmerizing.",
+    "genre": "Biography"
+  },
+  {
+    "_id": "doc8",
+    "text": "A heartbreaking story of love and loss that made me cry for hours.",
+    "genre": "Drama"
+  },
+  {
+    "_id": "doc9",
+    "text": "One of the saddest movies ever made — bring tissues! This emotional journey will devastate you.",
+    "genre": "Drama"
+  },
+  {
+    "_id": "doc10",
+    "text": "A tragic tale of separation and longing that left the entire audience in tears.",
+    "genre": "Romance"
+  },
+  {
+    "_id": "doc11",
+    "text": "This devastating war film shows the human cost of conflict with heartbreaking realism.",
+    "genre": "War"
+  },
+  {
+    "_id": "doc12",
+    "text": "A lighthearted comedy that will make you laugh from start to finish.",
+    "genre": "Comedy"
+  },
+  {
+    "_id": "doc13",
+    "text": "This hilarious romantic comedy features witty dialogue and charming characters.",
+    "genre": "Comedy"
+  },
+  {
+    "_id": "doc14",
+    "text": "An absurdist comedy that will have you rolling on the floor with laughter.",
+    "genre": "Comedy"
+  },
+  {
+    "_id": "doc15",
+    "text": "An action-packed adventure with stunning visual effects and thrilling chase scenes.",
+    "genre": "Action"
+  },
+  {
+    "_id": "doc16",
+    "text": "A science-fiction epic full of action and excitement set in a dystopian future.",
+    "genre": "Sci-Fi"
+  },
+  {
+    "_id": "doc17",
+    "text": "This space opera combines epic battles with deep philosophical questions about humanity.",
+    "genre": "Sci-Fi"
+  },
+  {
+    "_id": "doc18",
+    "text": "A psychological thriller that will keep you on the edge of your seat until the very end.",
+    "genre": "Thriller"
+  },
+  {
+    "_id": "doc19",
+    "text": "This horror film features terrifying jump scares and a haunting atmosphere.",
+    "genre": "Horror"
+  },
+  {
+    "_id": "doc20",
+    "text": "A suspenseful mystery thriller with unexpected twists and shocking revelations.",
+    "genre": "Thriller"
+  },
+  {
+    "_id": "doc21",
+    "text": "A beautiful love story that spans decades and continents, proving true love endures.",
+    "genre": "Romance"
+  },
+  {
+    "_id": "doc22",
+    "text": "This romantic drama explores the complexities of modern relationships with sensitivity.",
+    "genre": "Romance"
+  },
+  {
+    "_id": "doc23",
+    "text": "An eye-opening documentary that reveals shocking truths about environmental destruction.",
+    "genre": "Documentary"
+  },
+  {
+    "_id": "doc24",
+    "text": "This historical documentary provides fascinating insights into ancient civilizations.",
+    "genre": "Documentary"
+  }
+]

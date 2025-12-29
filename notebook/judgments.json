@@ -1,0 +1,314 @@
+[
+  {
+    "query_id": "query1",
+    "query": "DiCaprio performance",
+    "doc_id": "doc1",
+    "text": "DiCaprio's performance in The Revenant was breathtaking and earned him his first Oscar.",
+    "genre": "Drama",
+    "grade": 4
+  },
+  {
+    "query_id": "query1",
+    "query": "DiCaprio performance",
+    "doc_id": "doc2",
+    "text": "Inception shows Leonardo DiCaprio in one of his most iconic roles as a troubled dream thief.",
+    "genre": "Sci-Fi",
+    "grade": 4
+  },
+  {
+    "query_id": "query1",
+    "query": "DiCaprio performance",
+    "doc_id": "doc3",
+    "text": "The Wolf of Wall Street features DiCaprio's charismatic performance as a corrupt stockbroker.",
+    "genre": "Drama",
+    "grade": 3
+  },
+  {
+    "query_id": "query1",
+    "query": "DiCaprio performance",
+    "doc_id": "doc4",
+    "text": "Titanic showcases DiCaprio's early career breakthrough in this epic romance.",
+    "genre": "Romance",
+    "grade": 3
+  },
+  {
+    "query_id": "query1",
+    "query": "DiCaprio performance",
+    "doc_id": "doc5",
+    "text": "Brad Pitt delivers a solid performance in this crime thriller about organized crime.",
+    "genre": "Crime",
+    "grade": 0
+  },
+  {
+    "query_id": "query1",
+    "query": "DiCaprio performance",
+    "doc_id": "doc6",
+    "text": "Tom Hanks gives an outstanding performance in this emotional war drama.",
+    "genre": "War",
+    "grade": 0
+  },
+  {
+    "query_id": "query1",
+    "query": "DiCaprio performance",
+    "doc_id": "doc15",
+    "text": "An action-packed adventure with stunning visual effects and thrilling chase scenes.",
+    "genre": "Action",
+    "grade": 0
+  },
+  {
+    "query_id": "query1",
+    "query": "DiCaprio performance",
+    "doc_id": "doc12",
+    "text": "A lighthearted comedy that will make you laugh from start to finish.",
+    "genre": "Comedy",
+    "grade": 0
+  },
+  {
+    "query_id": "query2",
+    "query": "sad movies that make you cry",
+    "doc_id": "doc8",
+    "text": "A heartbreaking story of love and loss that made me cry for hours.",
+    "genre": "Drama",
+    "grade": 4
+  },
+  {
+    "query_id": "query2",
+    "query": "sad movies that make you cry",
+    "doc_id": "doc9",
+    "text": "One of the saddest movies ever made — bring tissues! This emotional journey will devastate you.",
+    "genre": "Drama",
+    "grade": 4
+  },
+  {
+    "query_id": "query2",
+    "query": "sad movies that make you cry",
+    "doc_id": "doc10",
+    "text": "A tragic tale of separation and longing that left the entire audience in tears.",
+    "genre": "Romance",
+    "grade": 3
+  },
+  {
+    "query_id": "query2",
+    "query": "sad movies that make you cry",
+    "doc_id": "doc11",
+    "text": "This devastating war film shows the human cost of conflict with heartbreaking realism.",
+    "genre": "War",
+    "grade": 3
+  },
+  {
+    "query_id": "query2",
+    "query": "sad movies that make you cry",
+    "doc_id": "doc1",
+    "text": "DiCaprio's performance in The Revenant was breathtaking and earned him his first Oscar.",
+    "genre": "Drama",
+    "grade": 2
+  },
+  {
+    "query_id": "query2",
+    "query": "sad movies that make you cry",
+    "doc_id": "doc12",
+    "text": "A lighthearted comedy that will make you laugh from start to finish.",
+    "genre": "Comedy",
+    "grade": 0
+  },
+  {
+    "query_id": "query2",
+    "query": "sad movies that make you cry",
+    "doc_id": "doc13",
+    "text": "This hilarious romantic comedy features witty dialogue and charming characters.",
+    "genre": "Comedy",
+    "grade": 0
+  },
+  {
+    "query_id": "query2",
+    "query": "sad movies that make you cry",
+    "doc_id": "doc15",
+    "text": "An action-packed adventure with stunning visual effects and thrilling chase scenes.",
+    "genre": "Action",
+    "grade": 0
+  },
+  {
+    "query_id": "query2",
+    "query": "sad movies that make you cry",
+    "doc_id": "doc14",
+    "text": "An absurdist comedy that will have you rolling on the floor with laughter.",
+    "genre": "Comedy",
+    "grade": 0
+  },
+  {
+    "query_id": "query3",
+    "query": "science fiction movies",
+    "doc_id": "doc2",
+    "text": "Inception shows Leonardo DiCaprio in one of his most iconic roles as a troubled dream thief.",
+    "genre": "Sci-Fi",
+    "grade": 4
+  },
+  {
+    "query_id": "query3",
+    "query": "science fiction movies",
+    "doc_id": "doc16",
+    "text": "A science-fiction epic full of action and excitement set in a dystopian future.",
+    "genre": "Sci-Fi",
+    "grade": 4
+  },
+  {
+    "query_id": "query3",
+    "query": "science fiction movies",
+    "doc_id": "doc17",
+    "text": "This space opera combines epic battles with deep philosophical questions about humanity.",
+    "genre": "Sci-Fi",
+    "grade": 4
+  },
+  {
+    "query_id": "query3",
+    "query": "science fiction movies",
+    "doc_id": "doc4",
+    "text": "Titanic showcases DiCaprio's early career breakthrough in this epic romance.",
+    "genre": "Romance",
+    "grade": 1
+  },
+  {
+    "query_id": "query3",
+    "query": "science fiction movies",
+    "doc_id": "doc15",
+    "text": "An action-packed adventure with stunning visual effects and thrilling chase scenes.",
+    "genre": "Action",
+    "grade": 2
+  },
+  {
+    "query_id": "query3",
+    "query": "science fiction movies",
+    "doc_id": "doc8",
+    "text": "A heartbreaking story of love and loss that made me cry for hours.",
+    "genre": "Drama",
+    "grade": 0
+  },
+  {
+    "query_id": "query3",
+    "query": "science fiction movies",
+    "doc_id": "doc12",
+    "text": "A lighthearted comedy that will make you laugh from start to finish.",
+    "genre": "Comedy",
+    "grade": 0
+  },
+  {
+    "query_id": "query4",
+    "query": "thriller suspense movies",
+    "doc_id": "doc18",
+    "text": "A psychological thriller that will keep you on the edge of your seat until the very end.",
+    "genre": "Thriller",
+    "grade": 4
+  },
+  {
+    "query_id": "query4",
+    "query": "thriller suspense movies",
+    "doc_id": "doc20",
+    "text": "A suspenseful mystery thriller with unexpected twists and shocking revelations.",
+    "genre": "Thriller",
+    "grade": 4
+  },
+  {
+    "query_id": "query4",
+    "query": "thriller suspense movies",
+    "doc_id": "doc19",
+    "text": "This horror film features terrifying jump scares and a haunting atmosphere.",
+    "genre": "Horror",
+    "grade": 3
+  },
+  {
+    "query_id": "query4",
+    "query": "thriller suspense movies",
+    "doc_id": "doc5",
+    "text": "Brad Pitt delivers a solid performance in this crime thriller about organized crime.",
+    "genre": "Crime",
+    "grade": 3
+  },
+  {
+    "query_id": "query4",
+    "query": "thriller suspense movies",
+    "doc_id": "doc11",
+    "text": "This devastating war film shows the human cost of conflict with heartbreaking realism.",
+    "genre": "War",
+    "grade": 1
+  },
+  {
+    "query_id": "query4",
+    "query": "thriller suspense movies",
+    "doc_id": "doc12",
+    "text": "A lighthearted comedy that will make you laugh from start to finish.",
+    "genre": "Comedy",
+    "grade": 0
+  },
+  {
+    "query_id": "query4",
+    "query": "thriller suspense movies",
+    "doc_id": "doc21",
+    "text": "A beautiful love story that spans decades and continents, proving true love endures.",
+    "genre": "Romance",
+    "grade": 0
+  },
+  {
+    "query_id": "query5",
+    "query": "romantic love stories",
+    "doc_id": "doc21",
+    "text": "A beautiful love story that spans decades and continents, proving true love endures.",
+    "genre": "Romance",
+    "grade": 4
+  },
+  {
+    "query_id": "query5",
+    "query": "romantic love stories",
+    "doc_id": "doc22",
+    "text": "This romantic drama explores the complexities of modern relationships with sensitivity.",
+    "genre": "Romance",
+    "grade": 4
+  },
+  {
+    "query_id": "query5",
+    "query": "romantic love stories",
+    "doc_id": "doc4",
+    "text": "Titanic showcases DiCaprio's early career breakthrough in this epic romance.",
+    "genre": "Romance",
+    "grade": 4
+  },
+  {
+    "query_id": "query5",
+    "query": "romantic love stories",
+    "doc_id": "doc10",
+    "text": "A tragic tale of separation and longing that left the entire audience in tears.",
+    "genre": "Romance",
+    "grade": 3
+  },
+  {
+    "query_id": "query5",
+    "query": "romantic love stories",
+    "doc_id": "doc13",
+    "text": "This hilarious romantic comedy features witty dialogue and charming characters.",
+    "genre": "Comedy",
+    "grade": 2
+  },
+  {
+    "query_id": "query5",
+    "query": "romantic love stories",
+    "doc_id": "doc8",
+    "text": "A heartbreaking story of love and loss that made me cry for hours.",
+    "genre": "Drama",
+    "grade": 3
+  },
+  {
+    "query_id": "query5",
+    "query": "romantic love stories",
+    "doc_id": "doc15",
+    "text": "An action-packed adventure with stunning visual effects and thrilling chase scenes.",
+    "genre": "Action",
+    "grade": 0
+  },
+  {
+    "query_id": "query5",
+    "query": "romantic love stories",
+    "doc_id": "doc19",
+    "text": "This horror film features terrifying jump scares and a haunting atmosphere.",
+    "genre": "Horror",
+    "grade": 0
+  }
+]
