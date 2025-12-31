@@ -1,5 +1,5 @@
 ```mermaid
-flowchart LR
+flowchart TD
     U[User Query] --> Q[Search Query]
 
     Q -->|First stage| R[Candidate Retrieval]
